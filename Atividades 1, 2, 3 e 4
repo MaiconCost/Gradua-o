@@ -1,1 +1,7 @@
 Perguntas e respostas abaixo
+----------------------------------
+
+1)O Document Object Model (DOM) é uma interface de programação para documentos HTML e XML. A representação de páginas permite que os programas alterem a estrutura do documento, alterando o estilo e o conteúdo.
+2)Canvas é um elemento HTML5 projetado para delinear uma área para a renderização dinâmica de gráficos. Todo o trabalho de autoria e animação é feito usando linguagens de programação dinâmicas.
+3)javascript, HTML5, getContext, entre outros.
+4)é uma função do JavaScript que serve para retornar um elemento do DOM que é identificado por um ID específico.
